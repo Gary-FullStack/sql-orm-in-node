@@ -1,0 +1,21 @@
+{
+  "name": "sql-orm-in-node",
+  "version": "1.0.0",
+  "description": "Lerning that sql stuff with an ORM.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "sequelize",
+    "node",
+    "orm",
+    "sqlite3"
+  ],
+  "author": "Gary M.",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.33.0",
+    "sqlite3": "^5.1.6"
+  }
+}
